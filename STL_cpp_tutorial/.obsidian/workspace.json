@@ -1,0 +1,174 @@
+{
+  "main": {
+    "id": "bf6a37afbaae83e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "76394ca82ec4b810",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "990df9bcede84b75",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4a99f4d94b0a0af2",
+    "type": "split",
+    "children": [
+      {
+        "id": "4963157dbf95ac36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c87c986d17f3ccba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4ac4d26291f1ab11",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d2c3edc41d244955",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3181466bff3bdbe4",
+    "type": "split",
+    "children": [
+      {
+        "id": "8df99fc834005c4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4da39c3b967df8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5adbfb86c6924737",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b12390c101be069a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "654fc78e9f74c2dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "990df9bcede84b75",
+  "lastOpenFiles": [
+    "std__multimap을 이용해 긴 문장을 찾는 문체 헬퍼 도구 구현.md",
+    "Chapter02/STL 컨테이너.md",
+    "Chapter02/std__map을 통해 단어 빈도수 카운터 구현.md",
+    "STL_관련 정리.canvas",
+    "Chapter02/std__stack으로 간단한 RPN 계산기 구현.md",
+    "Chapter01/묶음으로 된 반환값을 풀기 위해 구조체 형태의 바인딩 사용.md",
+    "Chapter02/중복된 사용자 입력 검출 및 std__set을 이용해 알파벳 순으로 출력.md",
+    "create a link.md",
+    "무제 파일.canvas",
+    "2024-08-03.md",
+    "Chapter02/std__unordered_map을 사용자 지정 타입으로 사용.md",
+    "Chapter02/std__map 요소의 키를 효율적으로 변경.md",
+    "Chapter02/std__map__insert의 새로운 삽입 판별 시맨틱 이해.md",
+    "Chapter02/필요한 조건을 걸어 효율적으로 std__map에 요소 삽입.md",
+    "Chapter02/std__vector 인스턴스의 정렬 유지.md",
+    "Chapter02/std__vector에서 삭제-제거 관용구 사용.md",
+    "Chapter02/std__vector 인스턴스에 빠르고 안전하게 접근.md",
+    "Chapter02/O(1) 시간으로 정렬되지 않은 std__vector의 요소 삭제.md",
+    "Chapter01/C++ 17의 새로운 기능.md",
+    "Chapter02",
+    "2024-07-28.md",
+    "Chapter01/생성자에서 자동으로 템플릿 클래스 타입 추론.md",
+    "Chapter01/새로운 중괄호 초기화 규칙의 강점.md",
+    "Chapter01/if와 switch 구문으로 변수의 범위를 제한.md",
+    "Chapter01/표현식 접기로 간편한 헬퍼 함수 구현.md",
+    "Chapter01/인라인 변수로 헤더 전용 라이브러리 활성화.md",
+    "Chapter01/constexpr-if로 컴파일 시간 결정 단순화.md",
+    "Welcome.md",
+    "Chapter01/가나다라.md",
+    "Chapter01"
+  ]
+}
